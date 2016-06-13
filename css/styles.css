@@ -1,0 +1,12 @@
+.output {
+  display: none;
+}
+
+.destination {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.destination:hover {
+  text-decoration: underline;
+}
